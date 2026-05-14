@@ -1,5 +1,2 @@
-# patel-prince1
-this is my second repo .
-<br>
-<h1> its very used full paltform for me</h1>
-my name is patel prince
+my name is patel prince.
+<h3>it's my second git repo.</h3>
